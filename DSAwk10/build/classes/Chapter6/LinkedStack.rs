@@ -1,0 +1,2 @@
+LinkedStack
+LinkedStack$Node
